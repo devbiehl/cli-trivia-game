@@ -38,7 +38,7 @@ trivia/
 │   ├── play.py           # Game logic & CLI prompts
 │   └── query.py          # SQL queries for retrieving data
 │
-├── trivia_db             # SQLite database file
+├── trivia.db             # SQLite database file
 └── README.md
 ```
 ---
