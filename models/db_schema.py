@@ -2,7 +2,7 @@ import sqlite3
 import random
 import os
 
-DB_PATH = os.path.normpath(os.path.join(os.path.dirname(__file__), '..', 'trivia_db'))
+DB_PATH = os.path.normpath(os.path.join(os.path.dirname(__file__), '..', 'trivia.db'))
 
 def connect_db(path: str | None = None) -> sqlite3.Connection:
     db_file = path or DB_PATH
