@@ -8,6 +8,12 @@ Built with **modular Python**, **SQL queries**, and a clean, reusable **database
 
 ---
 
+## Preview
+
+![Trivia Game Preview](demo.gif)
+
+---
+
 ## Features
 - Pulls trivia data from Open Trivia DB with **category** and **difficulty** filters.
 - **Randomized** question adn choice order.
